@@ -59,9 +59,6 @@
 
 <div align="center">
 <a href="https://github.com/louayyy99">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=louayyy99&theme=gruvbox" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=louayyy99&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=louayyy99&theme=ayu_mirage" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=louayyy99&theme=darcula" height="180em" />
 </div>
 
